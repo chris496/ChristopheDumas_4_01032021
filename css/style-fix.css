@@ -19,3 +19,9 @@ label{
 input{
     width: 50%;
 }
+
+/* footer */
+
+.margin-logo{
+    margin: 20px auto;
+}
