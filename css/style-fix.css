@@ -1,3 +1,9 @@
+p{
+    font-size: 14px;
+}
+
+/* mise en page formulaire */ 
+
 fieldset{
     width: 20%;
     padding: 10px;
