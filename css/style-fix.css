@@ -1,0 +1,15 @@
+fieldset{
+    width: 20%;
+    padding: 10px;
+}
+
+label{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 0;
+    width: 100%;
+}
+
+input{
+    width: 50%;
+}
