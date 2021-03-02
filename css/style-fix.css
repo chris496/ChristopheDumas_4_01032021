@@ -2,6 +2,31 @@ p{
     font-size: 14px;
 }
 
+/* transformation image en texte - bloc2 */
+
+.title-bloc2{
+    width: 60%;
+    margin: 20px auto 40px auto;
+}
+
+blockquote{
+    border: none;
+    margin: 0 50px 10px 50px;
+    font-size: 19.5px;
+    font-weight: 500;
+    font-style: italic;
+    color: rgb(66, 66, 66);
+}
+
+blockquote small{
+    font-size: 70%;
+    content: none;
+}
+
+blockquote small::before{
+    content: none;
+}
+
 /* mise en page formulaire */ 
 
 .contact{
@@ -12,8 +37,6 @@ p{
     float: none;
     margin: auto;
 }
-
-
 
 legend{
     text-align: center;
