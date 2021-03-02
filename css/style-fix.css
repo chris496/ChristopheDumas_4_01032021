@@ -4,20 +4,27 @@ p{
 
 /* mise en page formulaire */ 
 
-fieldset{
-    width: 20%;
-    padding: 10px;
+.contact{
+    padding: 60px 0;
 }
 
-label{
-    display: inline-block;
-    vertical-align: middle;
-    margin: 10px 0;
-    width: 100%;
+.form{
+    float: none;
+    margin: auto;
 }
 
-input{
-    width: 50%;
+
+
+legend{
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: solid 2px;
+}
+
+.adress{
+    text-align: center;
+    margin: 40px auto 0 auto;
+    float: none;
 }
 
 /* footer */
