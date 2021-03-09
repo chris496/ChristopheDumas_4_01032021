@@ -40,6 +40,17 @@ blockquote small::before{
     content: none;
 }
 
+/* modification - bloc6 */
+
+.bloc6-modif{
+    background: none;
+    background-color: #F3976C;
+}
+
+.bloc6-color{
+    color: white!important;
+}
+
 /* mise en page formulaire */ 
 
 .contact{
