@@ -2,7 +2,33 @@ p{
     font-size: 14px;
 }
 
-/* transformation image en texte - bloc2 */
+/* modification contraste texte */
+
+.color-link li a{
+    color: white!important;
+}
+
+ul li{
+    color: black;
+}
+
+.color-text-p{
+    color: white!important;
+}
+
+.bloc5-color{
+    color: #ff9f73!important;
+}
+
+.button-color{
+    background-color: #af613c!important;
+}
+
+.bg-color{
+    background-color: #af613c!important;
+}
+
+/* transformation image en texte - bloc2-4 */
 
 .title-bloc2{
     width: 60%;
@@ -44,7 +70,7 @@ blockquote small::before{
 
 .bloc6-modif{
     background: none;
-    background-color: #F3976C;
+    background-color: #c97046;
 }
 
 .bloc6-color{
